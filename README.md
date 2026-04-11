@@ -1,7 +1,5 @@
 # CodeAlpha_HandwrittenRecognition
 
-# CodeAlpha_HandwrittenRecognition
-
 # Handwritten Character Recognition - MNIST
 ### CodeAlpha Machine Learning Internship - Task 3
 
